@@ -1,0 +1,8 @@
+## Site Characteristics
+Country     = 'Russia'
+Station     = 'Moscow'
+Description = 'Observed data from NASA'
+Source      = 'NASA'
+Contact     = 'Misha Grol'
+Longitude = 5.67; Latitude = 51.97; Elevation = 7; AngstromA = 0.18; AngstromB = 0.55; HasSunshine = False
+## Daily weather observations (missing values are NaN)
