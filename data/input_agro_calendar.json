@@ -1,0 +1,9 @@
+{
+  "latitude": 52,
+  "longitude": 6,
+  "crop_start": "2018-03-31",
+  "crop_end": "2018-10-20",
+  "crop_type": "sugarbeet",
+  "irrigation_events":["2018-08-10", "2018-08-12", "2018-08-20"], 
+  "irrigation_ammounts":[10, 5, 8]
+}
