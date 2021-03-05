@@ -1,6 +1,0 @@
-with
-IRRAD in kJ/m2/day or hours
-TMIN and TMAX in Celsius (°C)
-VAP in kPa
-WIND in m/sec
-RAIN in mm
